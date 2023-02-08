@@ -1,2 +1,2 @@
-# bank_queue
-##queuing theory bank program
+# bank queue simulation
+## queuing theory bank program
